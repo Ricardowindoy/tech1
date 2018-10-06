@@ -1,0 +1,20 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.demo{
+	position:absolute;
+	right:900px;
+	top:100px;
+}
+.vintage2{
+font-size: 105%;
+color: white;
+letter-spacing:0.3em;
+}
+.vintage{
+font-size: 170%;
+color: white;
+-webkit-text-stroke: 0.5px red;
+letter-spacing:0.7em;
+}
